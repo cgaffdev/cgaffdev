@@ -4,7 +4,8 @@ I'm Caleb, a Indie Game Developer from Michigan.
 
 I have a degree in Computer Science and I'm passionate about building worlds and experiences.
 
-I'm most proficient in Unity, C#, and Java, however I have a wide spanding variety of skills and experiences with other coding languages, development tools, and 3D modelling software.
+I'm most proficient in Unity, C#, and Java, however I have a wide spanning variety of skills and experiences with other coding languages, development tools, and 3D modelling software. 
+Always looking to learn and add more to my skill set!
 
 I've been coding since highschool for of about six years, almost four of which dedicated to game devleopment!
 
