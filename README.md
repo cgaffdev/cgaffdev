@@ -8,7 +8,7 @@ I'm most proficient in Unity, C#, and Java, however I have a wide spanning varie
 Always looking to learn and add more to my skill set!
 
 I've been coding since highschool for of about six years, almost four of which dedicated to game devleopment!
-
+### ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ:  https://www.cg-portfolio.dev
 ---
 ### 💻 Skills
 - C#, Java, JavaScript, Python, HTML & CSS, Lua. . .
